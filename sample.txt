@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+Each line represents a different piece of information.
+The file is used for testing the file reading functionality.
